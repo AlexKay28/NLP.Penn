@@ -1,0 +1,561 @@
+tweet_id	begin	end	type	extraction	drug	tweet	meddra_code	meddra_term
+332317478170546176	28	37	ADR	allergies	avelox	"do you have any medication allergies? ""asthma!!!"" me: ""........"" pt: ""no wait. avelox, that's it!"" ""so no other allergies?"" ""right!"" *cont"	10013661	drug allergy
+347806215776116737	31	46	ADR	HURT YOUR Liver	avelox	"@ashleylvivian if #avelox has hurt your liver, avoid tylenol always, as it further damages liver, eat grapefruit unless taking cardiac drugs"	10024668	liver damage
+350336129817509888	48	50	ADR	AD	baclofen	"apparently, baclofen greatly exacerbates the ""ad"" part of my adhd. average length of focus today: about 30 seconds."	10003731	attention deficit disorder
+350336129817509888	88	93	ADR	focus	baclofen	"apparently, baclofen greatly exacerbates the ""ad"" part of my adhd. average length of focus today: about 30 seconds."	10003738	attention impaired
+332540699692130304	11	15	ADR	died	cipro	pt of mine died from cipro rt @ciproispoison: @gastromom if only more doctors thought like you! i lost my entire life to 12 cipro pills	10011906	death
+332542581760204800	41	45	ADR	died	cipro	"@gastromom the only pt of mine who ever died was one age 21 profound autism chronic underwt &amp; gi issues, given lots of cipro. terrible"	10011906	death
+343944308828811264	66	79	ADR	tendon damage	cipro	owww. i hurt my foot. &amp; am concerned. 1st warning on cipro is tendon damage. :-/ it certainly wasn't a rupture. i'm sure i'm just paranoid.	10043242	tendon injury
+346700255829561344					cipro	@deadfanclub @danadelany i have a penicillin/ keflex allergy so my dr writes me 10 days of zpack or i'd still be sick too! sometimes cipro		
+348120419921952770					cipro	@joshuagates you forgot the immodium for when the cipro kills all the good bacteria. :) #travelskills		
+348644040444637184	26	32	ADR	dreams	Robitussin	@bilgeebiri oh robitussin dreams are notorious. although what will really turn 'em into a bunuel movie is cipro.	10004969	bizarre dreams
+352217412046823425	84	98	ADR	tendon rupture	cipro	#eds friends! anybody taken #cipro? (antibiotic) complications?? big side effect is tendon rupture...figured my dr would know better?	10043248	tendon rupture
+332367377612279809					cymbalta	"@illtreaturite1 fluox a friend 4 years, but switch to cymbalta 4 anti-depress/pain control. i ocd worry. can't stop running mind"		
+332368320881889280					cymbalta	@lanternlizard cymbalta switch is part of what made me flip. but any snri with family hx of mania puts you at risk.		
+332457841749286913	102	112	ADR	withdrawal	cymbalta	"@enlightenmentor umm, are you being a smart-ass? dont mess with me right now. going through cymbalta withdrawal i think &amp; im very depressed."	10048010	withdrawal syndrome
+341552558369800192	13	27	ADR	emotional mess	cymbalta	today i'm an emotional mess. that's what happens when i think i could wean myself off of cymbalta.	10049119	emotional distress
+341555493409542144	17	29	ADR	not remember	cymbalta	losing it. could not remember the word power strip. wonder which drug is doing this memory lapse thing. my guess the cymbalta. #helps	10027176	memory loss
+341555493409542144	84	96	ADR	memory lapse	cymbalta	losing it. could not remember the word power strip. wonder which drug is doing this memory lapse thing. my guess the cymbalta. #helps	10027174	memory impaired
+341689297503662080	5	8	ADR	nap	cymbalta	that nap was on point.... cymbalta did that shit cuz i dont take naps...ever	10041349	somnolence
+341767297649766400	71	82	ADR	psychedelic	cymbalta	@andiedanley2626 cymbalta. 3x the dosage i was once on...everything is psychedelic and yuck. still grateful for meds!	10070679	feeling stoned
+354228220431843328	94	100	ADR	mashed	duloxetine	@santypas @scrabalisios i'm taking 700mg pregablin and 60 mg duloxetine hence why i'm totally mashed	10070679	feeling stoned
+341602254975008768					effexor	"@autumnuh_beee i was on celexa, which made me sleepy. i switched to effexor. it has norepinephrine in it, so it jump starts me in the mornin"		
+348458989924782081					enbrel	i feel so pill-ill again - decided to seriously cut down to just weekly enbrel and metho alongside daily nsaids #rheum.		
+348897919748943872					enbrel	"rt @dratp: @lisabinkc @trainingwithra @dsymons enbrel also available as prefilled syringe, much gentler. pen leaves bruises! #rheum"		
+332556333704413184	66	77	ADR	space cadet	fluoxetine	note to self: do not take #fluoxetine and #aleved together. i'm a space cadet today!  #druginteractions	10041374	spaced out
+341311579536650240	39	52	ADR	illness worse	fluoxetine	"i'm sure this fluoxetine is making my illness worse, especially since i can't eat.."	10021345	ill feeling
+341311579536650240	73	82	ADR	can't eat	fluoxetine	"i'm sure this fluoxetine is making my illness worse, especially since i can't eat.."	10003030	appetite suppressed
+346613977549258752					fluoxetine	i have some seriously disturbing dreams. thanks #fluoxetine thanks a freaking lot. well i guess it's better than being #suicidal ..only just		
+353079130692124672	30	38	ADR	allergic	fluoxetine	"rt @ianibbo: finding out i'm allergic to fluoxetine was a bit of a shock tho. mind, only someone from yorkshire could be actually allergic �"	10013661	drug allergy
+336988171973824512	127	138	ADR	withdrawals	geodon	i took 11 pills of geodon i was rushed to the hospital they had to stick a tube up my nose ugh never again i feel so bad today withdrawals.	10048010	withdrawal syndrome
+340627449496887296	41	47	ADR	hungry	geodon	so the geodon is what made me so frickin hungry all the time cause i've eaten very little these past few days.	10016336	feeling hungry
+349250599373639681					geodon	"will still be on the geodon, but will also be taking a low-dose alprazolam as needed for the sudden anxiety attacks ive been getting"		
+342138828087234560	119	125	ADR	nerves	humira	"@crohnietweets i found the humira to fix all my crohn's issues, but cause other issues. i went off it due to issues w nerves/muscle spasms"	10029177	nerve damage
+342138828087234560	126	139	ADR	muscle spasms	humira	"@crohnietweets i found the humira to fix all my crohn's issues, but cause other issues. i went off it due to issues w nerves/muscle spasms"	10028334	muscle spasms
+342685104725966848					humira	@showbizmom48 mri showed lesions in my noggin :s got to have eeg to see if its ms or humira doing it.so more tests n messing about lolxx		
+344346660530434048	104	114	ADR	joint pain	humira	@thestomabaglady it was explained to me that all the anti-tnfs can bring out other issues. i had severe joint pain on humira &amp; remicaid	10023222	joint pain
+344942366387494912	123	140	ADR	painful reactions	humira	@renegade_snare @ibdtweet i feel your pain :(  just got 1st #fistula urgh ! humira worked for me for just 3months then got painful reactions	10033371	pain
+344942366387494912	61	68	ADR	fistula	humira	@renegade_snare @ibdtweet i feel your pain :(  just got 1st #fistula urgh ! humira worked for me for just 3months then got painful reactions	10016717	fistula
+346087419424169984	114	118	ADR	achy	humira	"the day after humira used to be a great one, full of energy, low pain. after a month, it is now a fatigue filled achy day. #rheum"	10000424	ache
+346087419424169984	99	106	ADR	fatigue	humira	"the day after humira used to be a great one, full of energy, low pain. after a month, it is now a fatigue filled achy day. #rheum"	10016256	fatigue
+346096906985938945	112	119	ADR	fatigue	humira	"rt @smbell1: the day after humira used to be a great one, full of energy, low pain. after a month, it is now a fatigue filled achy day. #rh�"	10016256	fatigue
+346096906985938945	127	131	ADR	achy	humira	"rt @smbell1: the day after humira used to be a great one, full of energy, low pain. after a month, it is now a fatigue filled achy day. #rh�"	10000424	ache
+350691733987799040	39	48	ADR	no immune	humira	humira + thioguanine + preds = me have no immune lol.. thankgod i on anti biotics for a bit... then preds drop off #crohns	10021425	immune system disorder
+351399799750279168	12	24	ADR	nerve damage	humira	anyone have nerve damage symptoms (ms like) from enbrel or humira? #rheum	10029177	nerve damage
+351399799750279168	35	42	ADR	MS like	humira	anyone have nerve damage symptoms (ms like) from enbrel or humira? #rheum	10028055	MS-like syndrome
+344127080918827008	117	124	ADR	seizure	lamictal	"well. i abruptly stopped taking lamotrigine (lamictal), and that is why i am having the pain and weakness. possible seizure. oops."	10039906	seizure
+344127080918827008	89	93	ADR	pain	lamictal	"well. i abruptly stopped taking lamotrigine (lamictal), and that is why i am having the pain and weakness. possible seizure. oops."	10033371	pain
+344127080918827008	98	106	ADR	weakness	lamictal	"well. i abruptly stopped taking lamotrigine (lamictal), and that is why i am having the pain and weakness. possible seizure. oops."	10047862	weakness
+345607804171743233	53	59	ADR	rashes	lamictal	"so while i'm letting the thoughts of lamictal/fatal rashes/tonsillectomy/spinal tap settle, i'm going to go rescue a budgie."	10062948	drug rash
+349086151249903617	12	45	ADR	hair is... definitely falling out	lamictal	oh... oh my hair is... definitely falling out. ._. i just noticed it starting tonight. google tells me other people on lamictal have this.	10019045	hair loss
+330466694189428737	90	94	ADR	sick	lamotrigine	"@kierarampton it's called lamotrigine, i'm pretty sure the mix of them both is making me sick. i don't think bipolar &amp; add mix very well.."	10016365	feeling sick
+345333265089048577	63	72	ADR	depressed	lamotrigine	what is this weird feeling i've been having all day? i've felt depressed yet oddly happy. this is the second day of bid #lamotrigine	10012374	depressed mood
+351285012047470592	99	111	ADR	days of hell	lamotrigine	"@ouch_uk didnt know lamotrigine was addictive stopped as didnt think were helping @clusterheads 3 days of hell before realized, back on now"	10016370	feeling unwell
+351285012047470592	84	96	ADR	clusterheads	lamotrigine	"@ouch_uk didnt know lamotrigine was addictive stopped as didnt think were helping @clusterheads 3 days of hell before realized, back on now"	10059133	cluster headache
+351285012047470592	37	46	ADR	addictive	lamotrigine	"@ouch_uk didnt know lamotrigine was addictive stopped as didnt think were helping @clusterheads 3 days of hell before realized, back on now"	10012336	dependence addictive
+344848831646670848	38	46	ADR	allergic	levaquin	"@midwesternwife i feel your pain, im allergic to penicillin, ammoxicillin, levaquin, doxycycline. it sucks"	10013661	drug allergy
+330457675445968896	53	64	ADR	can't think	lozenge	"@wee_jendo nicotine lozenges. if i go cold turkey i can't think (or see) straight, so i can't work."	10043436	thinking reduced
+330457675445968896	69	82	ADR	see) straight	lozenge	"@wee_jendo nicotine lozenges. if i go cold turkey i can't think (or see) straight, so i can't work."	10047508	vision abnormal
+344781127493500928					lozenge	accidentally asphyxiating yourself trying to suck a throat lozenge when you have a stuffed nose. #that		
+351412839447146496	31	41	ADR	starvation	namenda	he said he is 'slowly dying of starvation'. i don't want to be the one to say stop taking the aricept and namenda...	10003030	appetite suppressed
+327835368164573186	27	43	ADR	increases hunger	olanzapine	@sophiemonk coz olanzapine increases hunger strains u all day dosile unless u get up when ur accilies still wud n coffee 5am fog frost	10020466	hunger
+330154444459241472	46	52	ADR	dreams	olanzapine	"@river__tam olanzapine is amazing srsly, the dreams are immense, no addiction, its gorgeous, like brave new world soma to me"	10004969	bizarre dreams
+332497216080052224	37	40	ADR	fat	olanzapine	olanzapine is supposed to make you a fat bastard i got off lucky. lithium makes my hand shake. bipolar or schizo drugs.	10047896	weight gain
+332497216080052224	83	93	ADR	hand shake	olanzapine	olanzapine is supposed to make you a fat bastard i got off lucky. lithium makes my hand shake. bipolar or schizo drugs.	10040530	shaking of hands
+340983454554546176	110	125	ADR	stopped working	paxil	"@christal_l that's the problem with most of them - side effects. i was on paxil after my mom died and ""it"" stopped working. fuck that."	10043087	tachyphylaxis
+342382016030973953	61	68	ADR	gaining	paxil	@jennabear32819 have to go to a doc now to see why i'm still gaining. stupid paxil made me gain like 50 pounds ?? and now i have to lose it	10047896	weight gain
+342382016030973953	91	110	ADR	gain like 50 pounds	paxil	@jennabear32819 have to go to a doc now to see why i'm still gaining. stupid paxil made me gain like 50 pounds ?? and now i have to lose it	10047896	weight gain
+346275392090423296	91	119	ADR	Getting out of bed is haaard	paxil	"anemia, hormones, depression &amp; paxil are totally getting the best of me this morning. getting out of bed is haaard."	10012378	depression
+347746008903581696	3	25	ADR	creativity was blocked	paxil	my creativity was blocked by lithium and prozac and wellbutrin and paxil and zoloft and effexor and lexapro and cymbalta and abilify-	10027374	mental impairment
+351423946706526209	43	46	ADR	w/d	paxil	the #zombieapocalypse will stem from paxil w/d symptoms. mark my words.	10048010	withdrawal syndrome
+331146154786041856	37	43	ADR	drowsy	pregabalin	"for anxiety to penetrate through my drowsy haze (a result of the triumvirate of fluoxetine, pregabalin, amoxicillin?) is pretty good going."	10013649	drowsiness
+331146154786041856	44	48	ADR	haze	pregabalin	"for anxiety to penetrate through my drowsy haze (a result of the triumvirate of fluoxetine, pregabalin, amoxicillin?) is pretty good going."	10017565	fuzzy
+343602068067581952	64	74	ADR	brain zaps	pristiq	@deltrimental i came off pristiq in july last year. i still get brain zaps when tired. my genitals aren�t numb now tho - swings/roundabouts	10033775	paraesthesia
+343602068067581952	90	110	ADR	genitals aren�t numb	pristiq	@deltrimental i came off pristiq in july last year. i still get brain zaps when tired. my genitals aren�t numb now tho - swings/roundabouts	10059272	sexual desire decreased
+347713864009408513	103	108	ADR	detox	pristiq	"@missmazygg anxiety has been so high. but yeah, if your dosage is high its hard to come off. i had to detox from pristiq (its cousin drug)"	10061814	detoxification
+340535092873162752	24	37	ADR	facial spasms	prozac	anybody get involuntary facial spasms with prozac? mine is my right eye. does it go away or is time to try something else?	10063006	facial spasm
+340535092873162752	68	71	ADR	eye	prozac	anybody get involuntary facial spasms with prozac? mine is my right eye. does it go away or is time to try something else?	10041384	spasm eyelid
+326575463835250689	51	56	ADR	awake	quetiapine	@rbhu7_82 if i don't take my quetiapine i can stay awake for days!	10041014	sleepiness
+329128359063859201	17	26	ADR	out of it	quetiapine	new meds have me out of it. i want therapy not doping up! i was highly functioning now have trouble standing! #quetiapine #bipolar	10041374	spaced out
+329128359063859201	47	56	ADR	doping up	quetiapine	new meds have me out of it. i want therapy not doping up! i was highly functioning now have trouble standing! #quetiapine #bipolar	10070679	feeling stoned
+331370652881797120	0	7	ADR	-9.5lbs	quetiapine	-9.5lbs in 14 days. obvious now that i should have stopped the quetiapine a long long time ago before i got in this state	10047900	weight loss
+331411632213344256	107	132	ADR	horrid intrusive thoughts	quetiapine	extra quetiapine and two zopiclone still aren't helping me sleep. head full of broken biscuits at 4am with horrid intrusive thoughts	10077275	intrusive thoughts
+332814714952376322					quetiapine	@iamcarrieeeeee that's what i get #bipolar2 but the bloody quetiapine made me so bloody miserable.		
+341026211218194432					quetiapine	4am and the quetiapine has failed to sedate me #bipolar #insomnia		
+341242496321482753	71	79	ADR	allergic	tramadol	(triggering) so... i'm taking quetiapine and tramadol pre-cutting. i'm allergic to tramadol...this should be interesting #selfharm	10013661	drug allergy
+342324117812420609	25	30	ADR	sleep	quetiapine	all i have done today is sleep. and i still need to sleep more. this is a welcome change. #quetiapine	10041014	sleepiness
+347461921676607489	123	136	ADR	hallucinating	quetiapine	"toothache. discovered that somewhere in the paracetamol, codeine, sertraline #quetiapine combination there is a bad mix. #hallucinating"	10019062	hallucinating
+349974468547981317	89	98	ADR	dry mouth	quetiapine	"@bella_astre quetiapine made me eat all the sweets, the sour ones seem to help with the dry mouth"	10013781	dry mouth
+351415959514390530	117	139	ADR	"20 hours a day, asleep"	quetiapine	"@disabledmedic quetiapine perhaps gives most dramatic effect for single low dose. no, pts are not being lazy in bed 20 hours a day, asleep!"	10041349	somnolence
+354343052212568066	55	71	ADR	prolactin levels	quetiapine	"rt @bipolarblogger: since quetiapine's messed with my prolactin levels, making my boobs humungous &amp; my bras so expensive, i want a lingerie�"	10036826	prolactin increased
+354343052212568066	83	98	ADR	boobs humungous	quetiapine	"rt @bipolarblogger: since quetiapine's messed with my prolactin levels, making my boobs humungous &amp; my bras so expensive, i want a lingerie�"	10014843	enlargement breast female
+343153861915201538	57	75	ADR	knee still painful	rivaroxaban	rivaroxaban diary day 8. left knee is much better. right knee still painful. back ache receding but suspect it will come back once in bed.	10023477	knee pain
+343153861915201538	77	86	ADR	Back ache	rivaroxaban	rivaroxaban diary day 8. left knee is much better. right knee still painful. back ache receding but suspect it will come back once in bed.	10003978	back ache
+345083262672175104	33	48	ADR	Lower back ache	rivaroxaban	"08.15 day 13 rivaroxaban diary. lower back ache, neck ache, hips and knees ache, short of breath, (am asthmatic) taken 2paracetamol, to bed."	10024890	low back ache
+345083262672175104	50	59	ADR	neck ache	rivaroxaban	"08.15 day 13 rivaroxaban diary. lower back ache, neck ache, hips and knees ache, short of breath, (am asthmatic) taken 2paracetamol, to bed."	10028836	neck pain
+345083262672175104	61	65	ADR	hips	rivaroxaban	"08.15 day 13 rivaroxaban diary. lower back ache, neck ache, hips and knees ache, short of breath, (am asthmatic) taken 2paracetamol, to bed."	10033432	pain in hip
+345083262672175104	70	80	ADR	knees ache	rivaroxaban	"08.15 day 13 rivaroxaban diary. lower back ache, neck ache, hips and knees ache, short of breath, (am asthmatic) taken 2paracetamol, to bed."	10023477	knee pain
+345083262672175104	82	97	ADR	short of breath	rivaroxaban	"08.15 day 13 rivaroxaban diary. lower back ache, neck ache, hips and knees ache, short of breath, (am asthmatic) taken 2paracetamol, to bed."	10040604	shortness of breath
+345414697148887041	119	135	ADR	frontal headache	rivaroxaban	"06.30 day 14 rivaroxaban diary. thanks to paracetamol and hot water bottle i had 4 hrs continuous sleep. woke uo with frontal headache, 1/2"	10019211	headache
+345880550915059712	42	50	ADR	backache	rivaroxaban	13.24 day 15 rivaroxaban diary. atrocious backache despite having taken paracetamol an hour ago. gone back to bed.	10003978	back ache
+347449601881686016					rivaroxaban	21.21 day 19 rivaroxaban diary. decided to continue until all aches gone. hips and legs still ache but much more mobile now.		
+349303644262367234	26	49	ADR	muscle &amp; back pains	rivaroxaban	"rivaroxaban diary day 25 muscle &amp; back pains were due to being on rvxbn for 10 days, on it + losartan for 8 days, + losartan only for 4 days"	10028323	muscle pains
+349303644262367234	39	49	ADR	back pains	rivaroxaban	"rivaroxaban diary day 25 muscle &amp; back pains were due to being on rvxbn for 10 days, on it + losartan for 8 days, + losartan only for 4 days"	10003988	back pain
+332457979939016705	109	124	ADR	not remembering	seroquel	@doctorchristian is my memory really bad due to 900mg seroquel and 120mg cymbalta or the bipolar itself? i'm not remembering conversations	10017060	forgetfulness
+333037072992575490	82	92	ADR	drowsiness	seroquel	"@basic_chunnel @bromethazine i'm pretty lucid in all my dreams, and the seroquel drowsiness carried over into the dream. lolol."	10013649	drowsiness
+333203009209266176	34	78	ADR	sleep on my own. but i got at least 16 hours	seroquel	i can only get about 7-8 hours of sleep on my own. but i got at least 16 hours with seroquel. i now see how people can get addicted.	10041014	sleepiness
+333613151599869952	107	115	ADR	feel ill	seroquel	maybe cos of the insulin blocking effect of seroquel but i do feel sugar crashes when eat fast carbs. will feel ill. so avoid where poss.	10021345	ill feeling
+333613151599869952	67	80	ADR	sugar crashes	seroquel	maybe cos of the insulin blocking effect of seroquel but i do feel sugar crashes when eat fast carbs. will feel ill. so avoid where poss.	10005808	blood sugar decreased
+343283459533443072	61	74	ADR	won't wake up	seroquel	"trazodone isn't working. can't take seroquel at 430 am or i won't wake up until after 2 pm. stuck, painfully awake."	10019158	hard to awaken
+343376431864229889	9	21	ADR	not remember	seroquel	why do i not remember going to bed or waking up (the answer: probably seroquel)	10017060	forgetfulness
+346762709657870337					seroquel	"personally i prefer staying up until i get hallucinations, to taking seroquel to get to sleep, but only because it's more fun for me"		
+348336073967022080	91	126	ADR	feels like I have raw nerve endings	seroquel	i can't take this:( i thought having seroquel would make it easier but nope. my whole body feels like i have raw nerve endings going crazy	10021681	increased skin sensitivity
+348701811743535104					seroquel	you don't know insomnia until you take 2 seroquel and work out at 3am.		
+349006492898295808	88	115	ADR	sleep for 12 straight hours	seroquel	@suedoelawyer and with seroquel i take half of a 25mg pill. and it knocks me out; i can sleep for 12 straight hours	10041000	sleep excessive
+350867989538684929	84	104	ADR	urge to procure food	seroquel	waitt..here it comes..the #seroquel is pulling me under..also i now have the sudden urge to procure food.. #fmlimugly	10021654	increased appetite
+326928335110291456	92	102	ADR	dependence	trazodone	but i don't want to take an ambien or trazodone or anything because i dint wanna restart my dependence upon them	10013663	drug dependence
+327604889540755456	50	56	ADR	asleep	trazodone	i think it's bad i'm consistently in bed by 9 and asleep by 9:15. #trazodone	10041349	somnolence
+328660565033639937	36	59	ADR	knocked me the fuck out	trazodone	"holy shit, that trazodone actually knocked me the fuck out and took me for a ride"	10041349	somnolence
+331642247084916736					trazodone	wide awake and this trazodone starting to feel like a sugar pill.. i'd actually prefer to be at work right bout now.		
+333208965607456771	34	38	ADR	high	trazodone	"trazodone is fun because you get high, slowly fade into sleep, then wake up drunk as hell."	10016333	feeling high
+333208965607456771	77	82	ADR	drunk	trazodone	"trazodone is fun because you get high, slowly fade into sleep, then wake up drunk as hell."	10013767	drunk-like effect
+339971334794772480	104	113	ADR	tolerance	trazodone	"i wish xanax made me tired. i also wish ambien, trazodone, lorazepam, lunesta, and temazepam did too. #tolerance #fml"	10052804	drug tolerance
+341622840933629953	28	42	ADR	sleep schedule	trazodone	trazodone has screwed up my sleep schedule. its helping tho.	10040995	sleep disturbance
+346580466041778176	77	111	ADR	felt like I.had a frontal lobotomy	trazodone	@nighttraumadoc it works otherwise. my pcp started me on trazodone before. i felt like i.had a frontal lobotomy the following day	10027374	mental impairment
+348206994722783232	100	104	ADR	puke	trazodone	"my philly dr prescribed me trazodone,1pill made me so fkn sick, couldnt move 2day.xtreme migraine, puke, shakes. any1else get that react?"	10047700	vomiting
+348206994722783232	106	112	ADR	shakes	trazodone	"my philly dr prescribed me trazodone,1pill made me so fkn sick, couldnt move 2day.xtreme migraine, puke, shakes. any1else get that react?"	10040528	shaking
+348206994722783232	59	63	ADR	sick	trazodone	"my philly dr prescribed me trazodone,1pill made me so fkn sick, couldnt move 2day.xtreme migraine, puke, shakes. any1else get that react?"	10016365	feeling sick
+348206994722783232	65	77	ADR	couldnt move	trazodone	"my philly dr prescribed me trazodone,1pill made me so fkn sick, couldnt move 2day.xtreme migraine, puke, shakes. any1else get that react?"	10028045	movements reduced
+348206994722783232	90	98	ADR	migraine	trazodone	"my philly dr prescribed me trazodone,1pill made me so fkn sick, couldnt move 2day.xtreme migraine, puke, shakes. any1else get that react?"	10027599	migraine
+348207562631557122	107	115	ADR	migraine	trazodone	"rt @aprilhunter: my philly dr prescribed me trazodone,1pill made me so fkn sick, couldnt move 2day.xtreme migraine, puke, shakes. any1else �"	10027599	migraine
+348207562631557122	117	121	ADR	puke	trazodone	"rt @aprilhunter: my philly dr prescribed me trazodone,1pill made me so fkn sick, couldnt move 2day.xtreme migraine, puke, shakes. any1else �"	10047700	vomiting
+348207562631557122	123	129	ADR	shakes	trazodone	"rt @aprilhunter: my philly dr prescribed me trazodone,1pill made me so fkn sick, couldnt move 2day.xtreme migraine, puke, shakes. any1else �"	10040528	shaking
+348207562631557122	76	80	ADR	sick	trazodone	"rt @aprilhunter: my philly dr prescribed me trazodone,1pill made me so fkn sick, couldnt move 2day.xtreme migraine, puke, shakes. any1else �"	10016365	feeling sick
+350848441829687296	49	59	ADR	nightmares	trazodone	i went down to 100 mg of trazodone at night. the nightmares are gone but my insomnia got worse.	10029412	nightmare
+350848441829687296	76	84	ADR	insomnia	trazodone	i went down to 100 mg of trazodone at night. the nightmares are gone but my insomnia got worse.	10022437	insomnia
+326995800024571906	101	107	ADR	energy	venlafaxine	sick of feeling tired. fed up of meds not working. loads to do today &amp; no freaking motivation or energy #venlafaxine #day9	10016356	feeling of total lack of energy
+326995800024571906	16	21	ADR	tired	venlafaxine	sick of feeling tired. fed up of meds not working. loads to do today &amp; no freaking motivation or energy #venlafaxine #day9	10043890	tiredness
+326995800024571906	75	97	ADR	no freaking motivation	venlafaxine	sick of feeling tired. fed up of meds not working. loads to do today &amp; no freaking motivation or energy #venlafaxine #day9	10023614	lack of motivation
+327367830527963137	9	14	ADR	sleep	venlafaxine	11 hours sleep and still i feel tired and dizzy #venlafaxine #day10	10041349	somnolence
+327367830527963137	32	37	ADR	tired	venlafaxine	11 hours sleep and still i feel tired and dizzy #venlafaxine #day10	10043890	tiredness
+327367830527963137	42	47	ADR	dizzy	venlafaxine	11 hours sleep and still i feel tired and dizzy #venlafaxine #day10	10013573	dizziness
+328794465395437568	52	58	ADR	drowsy	venlafaxine	so it seems that  if i take #venlafaxine in am i am drowsy all day. if i take in pm i don�t sleep well. go figure.  #day14	10013649	drowsiness
+328794465395437568	86	102	ADR	don�t sleep well	venlafaxine	so it seems that  if i take #venlafaxine in am i am drowsy all day. if i take in pm i don�t sleep well. go figure.  #day14	10062519	poor quality sleep
+329499342601854976	0	23	ADR	Feel crap every morning	venlafaxine	feel crap every morning. wake up after another restless night and just want to cry. #venlafaxine #day16	10016370	feeling unwell
+329499342601854976	47	61	ADR	restless night	venlafaxine	feel crap every morning. wake up after another restless night and just want to cry. #venlafaxine #day16	10041007	sleep restless
+329975207488004096	80	93	ADR	carb cravings	venlafaxine	i low carb but have just eaten my body weight in freakin carbs! i only hope the carb cravings are because i�m coming off the #venlafaxine	10007216	carbohydrate craving
+330053985115451394					venlafaxine	@raj1410 i'm now on venlafaxine my main issue is the cataplexy haha just ask @hannahrogerson this is the third i've tried. what are you on?		
+330685673055088640	0	6	ADR	Dreamt	venlafaxine	dreamt i was squirting acid at wood lice - i woke screaming when they came at me. i do hope the dreams are the #venlafaxine withdrawal.	10004969	bizarre dreams
+330685673055088640	124	134	ADR	withdrawal	venlafaxine	dreamt i was squirting acid at wood lice - i woke screaming when they came at me. i do hope the dreams are the #venlafaxine withdrawal.	10048010	withdrawal syndrome
+330685673055088640	96	102	ADR	dreams	venlafaxine	dreamt i was squirting acid at wood lice - i woke screaming when they came at me. i do hope the dreams are the #venlafaxine withdrawal.	10004969	bizarre dreams
+332929438713004034	114	134	ADR	lost my fucking mind	venlafaxine	@zombie_girl_2 i tried that going cold turkey on venlafaxine and depakote is not a good idea i dreamt colours and lost my fucking mind aghh!	10037234	psychosis
+332929438713004034	95	109	ADR	dreamt colours	venlafaxine	@zombie_girl_2 i tried that going cold turkey on venlafaxine and depakote is not a good idea i dreamt colours and lost my fucking mind aghh!	10047666	vivid dreams
+342267219792781312	57	71	ADR	falling asleep	venlafaxine	high off tramadol and venlafaxine in school omg help i'm falling asleep here	10041349	somnolence
+349663852927000578					venlafaxine	"i've had a lovely, relaxing day, but end it weighed down by nonspecific foreboding and crushing sense of guilt #depression #venlafaxine"		
+349627789009367040	113	120	ADR	sickest	viibryd	holy shit no more xanax or risperidone. i will have withdrawals. still on viibryd but it's next. it makes me the sickest.	10016365	feeling sick
+342907594135977986	33	40	ADR	ZOMBIES	vyvanse	"@mvrcivl vyvanse got me up like zombies.. xan's put me down, them bitches call me romney.. the way i steady clown #txfreestyle #barrdout"	10016384	felt like a zombie
+343031253072764928	78	103	ADR	eat because I just forget	vyvanse	"@jordantaylor068 yeah, i'm on vyvanse and sometimes i have to be reminded to eat because i just forget."	10003030	appetite suppressed
+343525207937544192	19	24	ADR	hyper	vyvanse	vyvanse make me so hyper and creative and i think of so many tweets	10020554	hyperactive
+344152692547018752	27	46	ADR	Can't. Stop. Moving	vyvanse	vyvanse = 5 lines of coke. can't. stop. moving.	10020554	hyperactive
+344865165608636416	17	29	ADR	felt drugged	Ritalin	@guccigreenery i felt drugged on ritalin. i love vyvanse. i can't tell i'm on it except for feeling better and calmer and more structured	10070679	feeling stoned
+344865863490473984	85	95	ADR	lose focus	vyvanse	when im tweaked off vyvanse  i cant go into my room...cuse if i look at my shoes ill lose focus of everything and just think bout them	10003738	attention impaired
+345176614683959298	4	13	ADR	come down	vyvanse	the come down on vyvanse kicks my ass every time	10073281	withdrawal symptom
+326376825590779905					lamictal	do u know what medications are r for bipolar depression? currently #fda approved lamotrigine aka #lamictal		
+326406322323066883	111	117	ADR	zombie	olanzapine	thought of work is overwhelming me so much i feel like crying but can't because olanzapine has me trapped in a zombie state #strugglewithin	10016384	felt like a zombie
+326406322323066883	45	71	ADR	feel like crying but can't	olanzapine	thought of work is overwhelming me so much i feel like crying but can't because olanzapine has me trapped in a zombie state #strugglewithin	10011469	crying
+326455480891346947	108	122	ADR	hot &amp; cold	venlafaxine	5hrs sleep last night but stayed awake today. lethargic &amp; low still. in bed &amp; can feel myself going hot &amp; cold :(  #venlafaxine #day7	10016335	feeling hot and cold
+326455480891346947	46	55	ADR	Lethargic	venlafaxine	5hrs sleep last night but stayed awake today. lethargic &amp; low still. in bed &amp; can feel myself going hot &amp; cold :(  #venlafaxine #day7	10024262	lethargic
+326456822007492608					trazodone	my urologist today said that trazodone can cause priapism. which is an erection lasting 4 hours. i will never take that sleeping pill again		
+326596903791902720	36	41	ADR	sleep	ofloxacin	ciprofloxacin: how do you expect to sleep when your stomach is a cement mixer?	10041017	sleeplessness
+326596903791902720	52	77	ADR	stomach is a cement mixer	ofloxacin	ciprofloxacin: how do you expect to sleep when your stomach is a cement mixer?	10042112	stomach pain
+326789014290055168	26	32	ADR	hungry	olanzapine	@dopamine_diva q makes me hungry. olanzapine made me want to eat my own arm!	10020466	hunger
+326789014290055168	53	75	ADR	want to eat my own arm	olanzapine	@dopamine_diva q makes me hungry. olanzapine made me want to eat my own arm!	10020466	hunger
+327121072099045376					lamotrigine	my mood swings are getting worse and lamotrigine isn't helping at all.�		
+327136020594307072	106	138	ADR	 parody of an actual human being	zyprexa	"wellbutrin, zyprexa, xanax, effexor, lamotrigine, valium. every day. i'm not even a person anymore. i'm a parody of an actual human being."	10012359	depersonalization
+327202063299788801	13	26	ADR	try for sleep	venlafaxine	i�m going to try for sleep. real sleep. not that light bastard that #venlafaxine brings me.	10041017	sleeplessness
+327202063299788801	49	62	ADR	light bastard	venlafaxine	i�m going to try for sleep. real sleep. not that light bastard that #venlafaxine brings me.	10062519	poor quality sleep
+327692063460163585	62	75	ADR	wiping me out	venlafaxine	cannot decide whether to take meds today. the #venlafaxine is wiping me out like the #citalopram did. i can't function on them. #day11	10015667	exhaustion
+327692063460163585	104	118	ADR	can't function	vanlafaxine	cannot decide whether to take meds today. the #venlafaxine is wiping me out like the #citalopram did. i can't function on them. #day11	10041349	somnolence
+327793679634931712	38	73	ADR	feel like I am in a straight jacket	olanzapine	after taking olanzapine i wake up and feel like i am in a straight jacket because my muscles feel stiff	10028339	muscle stiffness
+327793679634931712	85	103	ADR	muscles feel stiff	olanzapine	after taking olanzapine i wake up and feel like i am in a straight jacket because my muscles feel stiff	10028339	muscle stiffness
+328059687327109120	32	40	ADR	Feel low	venlafaxine	another night of 'light' sleep. feel low. subdued. sad.  #venlafaxine #day12	10024919	low mood
+328059687327109120	51	54	ADR	Sad	venlafaxine	another night of 'light' sleep. feel low. subdued. sad.  #venlafaxine #day12	10016364	feeling sad
+328059687327109120	42	49	ADR	Subdued	venlafaxine	another night of 'light' sleep. feel low. subdued. sad.  #venlafaxine #day12	10024919	low mood
+328059687327109120	18	30	ADR	light' sleep	venlafaxine	another night of 'light' sleep. feel low. subdued. sad.  #venlafaxine #day12	10062519	poor quality sleep
+328244482455764994	75	89	ADR	sleep problems	lamotrigine	if i become high i will not increase the lamotrigine as this will fuel the sleep problems	10041005	sleep proplem
+328248124399296512	86	101	ADR	 tired daytimes	venlafaxine	tonight i am taking my #venlafaxine in the evening in pursuit of better sleep and less tired daytimes. wish me luck.	10011865	daytime sleepiness
+328525527184977925					olanzapine	@joesimpson475 @major___tom in my humble opinion the only reason for prescribing olanzapine is sedation.		
+328645545411354625	0	10	ADR	Over-eaten	olanzapine	over-eaten again just before bed. stuffed. good chance i will choke on my own vomit during sleep. i blame #olanzapine #timetochange #bipolar	10015598	excessive eating
+328996507065917440					quetiapine	@nevharvey now that i'm on a hefty dose of quetiapine i usually sleep no problem. yet the anxiety remains. a hangover from the days when...		
+329201654484328450	120	125	ADR	dizzy	pregabalin	ooooop. anyone know if amoxicillin and pregabalin have an interaction? never had one with fluoxetine and losartan... so dizzy!	10013573	dizziness
+329201654484328450	58	69	ADR	interaction	pregabalin	ooooop. anyone know if amoxicillin and pregabalin have an interaction? never had one with fluoxetine and losartan... so dizzy!	10013710	drug interaction
+329340088809033730	120	126	ADR	sleepy	olanzapine	"husband said i was a little 'high' tonight so encouraged me to take 7.5mg of olanzapine. now feel really really really sleepy, zzzz...."	10041014	sleepiness
+329541278268264448	90	98	ADR	comatose	quetiapine	@ital_livity not getting any better here so dragging myself to gp. i'd rather be mad than comatose! hope ur doing ok #quetiapine	10041349	somnolence
+329617517578444802	129	134	ADR	manic	citalopram	"@any1mouse jus gt bck myself, hes put me on citalopram in addition 2 the quetiapine! im a bit worried as citalopram has made me manic before"	10026749	mania
+329831780670656513					trazodone	stop taking trazodone and call your doctor at once if you have a penis erection that is painful or lasts 6 hours or longer.my sleeping pills		
+329832584282513408	91	97	ADR	dreams	melatonin	"rp mcmurphy was right about the trazodone being my new favorite bed-buddy. rip, melatonin dreams. you were getting too weird - even for me."	10004969	bizarre dreams
+329867012782309376	0	7	ADR	Tearful	lamotrigine	tearful this morning. desperately poor nights sleep. utterly fucked up by withdrawing so quickly from lamotrigine	10043169	tearfulness
+329867012782309376	34	51	ADR	poor nights sleep	lamotrigine	tearful this morning. desperately poor nights sleep. utterly fucked up by withdrawing so quickly from lamotrigine	10062519	poor quality sleep
+329867012782309376	74	85	ADR	withdrawing	lamotrigine	tearful this morning. desperately poor nights sleep. utterly fucked up by withdrawing so quickly from lamotrigine	10048010	withdrawal syndrome
+329890622674718720	0	17	ADR	Joints killing me	lamotrigine	joints killing me now i have gone back up on the lamotrigine. sick of side effects. sick of meds. want my own self back. knackered today	10023222	joint pain
+329890622674718720	121	130	ADR	Knackered	lamotrigine	joints killing me now i have gone back up on the lamotrigine. sick of side effects. sick of meds. want my own self back. knackered today	10016370	feeling unwell
+329973587559731200					fluoxetine	me: how is your depression now that you�re on fluoxetine?  pt: i don�t have depression. i have fibromyalgia.   me: &lt;sigh&gt;		
+330026374758797312	100	108	ADR	addicted	olanzapine	"me: why have i been sectioned, what psychotic symptoms do i have? psychiatrist: dancing.  i am now addicted to the antipsychotic olanzapine"	10001125	addiction
+330056211133247489					quetiapine	@bella_astre @mrs_kittyo i've had chronic insomnia for as long as i can remember because my brain won't shut up. low dose of quetiapine...		
+330070815049662465	0	10	ADR	coming off	quetiapine	coming off #quetiapine is harder than u think. nausea sickness hot and cold shivers twitching headache #bipolar #mentalhealth #medication	10013754	drug withdrawal syndrome
+330070815049662465	63	75	ADR	hot and cold	quetiapine	coming off #quetiapine is harder than u think. nausea sickness hot and cold shivers twitching headache #bipolar #mentalhealth #medication	10016335	feeling hot and cold
+330070815049662465	94	102	ADR	headache	quetiapine	coming off #quetiapine is harder than u think. nausea sickness hot and cold shivers twitching headache #bipolar #mentalhealth #medication	10019211	headache
+330070815049662465	54	62	ADR	sickness	quetiapine	coming off #quetiapine is harder than u think. nausea sickness hot and cold shivers twitching headache #bipolar #mentalhealth #medication	10016365	feeling sick
+330070815049662465	47	53	ADR	nausea	quetiapine	coming off #quetiapine is harder than u think. nausea sickness hot and cold shivers twitching headache #bipolar #mentalhealth #medication	10028813	nausea
+330070815049662465	76	83	ADR	shivers	quetiapine	coming off #quetiapine is harder than u think. nausea sickness hot and cold shivers twitching headache #bipolar #mentalhealth #medication	10040558	shivering
+330070815049662465	84	93	ADR	twitching	quetiapine	coming off #quetiapine is harder than u think. nausea sickness hot and cold shivers twitching headache #bipolar #mentalhealth #medication	10045198	twitching
+330249629247610880	35	45	ADR	withdrawal	lamotrigine	"@ecrjones attempts at lamotrigine withdrawal, commuting by train every day and being back at work in a new role"	10023222	joint pain
+330341426120503298	45	56	ADR	passing out	trazodone	debating on taking a trazodone and literally passing out for the day.	10041349	somnolence
+330357689613946883					memantine	rt @jeremyvvw: there are other drugs in development. large randomized study of memantine under way for core symptoms. #autismchat		
+330545428493893632	68	74	ADR	zombie	trazodone	"round 2 trazodone. please just put me to sleep, not make me into a zombie the whole next day."	10016384	felt like a zombie
+330740866807386112	17	26	ADR	addictive	venlafaxine	@elizabethaf not addictive? 'ssri discontinuation syndrome.' i know someone who has been trying to come off venlafaxine for over two years &gt;	10012336	dependence addictive
+330740866807386112	34	58	ADR	discontinuation syndrome	venlafaxine	@elizabethaf not addictive? 'ssri discontinuation syndrome.' i know someone who has been trying to come off venlafaxine for over two years &gt;	10013754	drug withdrawal syndrome
+330768789878743040					olanzapine	is anyone on an antipsychotic they can actually tolerate? i can tolerate a low dose of olanzapine 7.5mg		
+330777882395807744					fluoxetine	its funny how just one cut could make you feel more better an entire bottle of prozac/fluoxetine		
+330877304140083200	77	81	ADR	high	trazodone	#trazodone is one hell of a sleeping pill. it also makes you feel incredibly high.	10016333	feeling high
+330910232819679235	34	38	ADR	cold	ofloxacin	i feel like a pile of shit #sick #cold #stomach reacting to some antibiotics. i will never again take #ciprofloxacin	10009851	cold
+330910232819679235	2	26	ADR	feel like a pile of shit	ofloxacin	i feel like a pile of shit #sick #cold #stomach reacting to some antibiotics. i will never again take #ciprofloxacin	10016370	feeling unwell
+330910232819679235	28	32	ADR	sick	ofloxacin	i feel like a pile of shit #sick #cold #stomach reacting to some antibiotics. i will never again take #ciprofloxacin	10016365	feeling sick
+330910232819679235	40	56	ADR	stomach reacting	ofloxacin	i feel like a pile of shit #sick #cold #stomach reacting to some antibiotics. i will never again take #ciprofloxacin	10042112	stomach pain
+330991367222337536	0	5	ADR	Slept	venlafaxine	slept! really slept! i think i can assume from that that the venlafaxine is now nearly out of my system :))	10041349	somnolence
+331478814888689664	90	104	ADR	hallucinations	valproate	"@spicynyx i think i'm that too! had rare breastmilk production on quetiapine, ultra rare hallucinations (not psychosis) on valproate."	10019063	hallucination
+331478814888689664	42	63	ADR	breastmilk production	quetiapine	"@spicynyx i think i'm that too! had rare breastmilk production on quetiapine, ultra rare hallucinations (not psychosis) on valproate."	10023666	lactation induced
+331745125501915138	29	46	ADR	allergic reaction	lamotrigine	@thejeremyvine i once had an allergic reaction to the anti-convulsant lamotrigine.  i got a rash all over my body that looked like burns.	10001718	allergic reaction
+331745125501915138	92	96	ADR	rash	lamotrigine	@thejeremyvine i once had an allergic reaction to the anti-convulsant lamotrigine.  i got a rash all over my body that looked like burns.	10037844	rash
+331818975681982464	19	23	ADR	burp	fluoxetine	morning fluoxetine burp makes me want to ralph.	10006804	burping
+331818975681982464	33	46	ADR	want to ralph	fluoxetine	morning fluoxetine burp makes me want to ralph.	10028813	nausea
+331961284935434242	71	77	ADR	Groggy	trazodone	i love when my #trazodone kicks in after i've forgotten i've taken it. groggy tweets commence.	10018730	groggy
+332175390044999680	24	35	ADR	withdrawing	venlafaxine	"please be careful when withdrawing from any anti deps, benzos and/or hypnotics. venlafaxine was a bad choice for me and worse withdrawl."	10048010	withdrawal syndrome
+332176466940923904	110	130	ADR	won't let me wake up	trazodone	"@ftamalenus i keep telling myself 8 am, but i think the trazodone fucks it up. :( it knocks me right out and won't let me wake up."	10019158	hard to awaken
+332176466940923904	86	105	ADR	knocks me right out	trazodone	"@ftamalenus i keep telling myself 8 am, but i think the trazodone fucks it up. :( it knocks me right out and won't let me wake up."	10041349	somnolence
+332280215931858945	104	115	ADR	combination	fluoxetine	"can't sleep, but i'm afraid that the muscle tremors keep me awake even worse if i take promethazine in combination with fluoxetine..."	10013710	drug interaction
+332280215931858945	38	52	ADR	muscle tremors	fluoxetine	"can't sleep, but i'm afraid that the muscle tremors keep me awake even worse if i take promethazine in combination with fluoxetine..."	10044573	tremor muscle
+332298447866707969	42	53	ADR	withdrawals	effexor	little did i know that i would go through withdrawals when coming off of effexor xr. #antidepressants	10048010	withdrawal syndrome
+332302887940145152	71	80	ADR	withdraws	paxil	@jessieeclayton take paxil then. no anxiety just happiness. but you et withdraws if you forget to take it.	10048010	withdrawal syndrome
+332304295791824897	134	138	ADR	sick	cymbalta	@spooniescouch @joodamsmith @seal_kim @sapril880 ant take anti seizure meds or anti depressants and cymbalta and savella made me very sick:(	10016365	feeling sick
+332356011946016768	59	68	ADR	delirious	paxil	i reaaaallly need to take my paxil but it makes me feel so delirious and just messed up.	10012217	delirious 
+332356011946016768	78	87	ADR	messed up	paxil	i reaaaallly need to take my paxil but it makes me feel so delirious and just messed up.	10016370	feeling unwell
+332391387901358081	65	74	ADR	delirious	quetiapine	@edaemus @waynehatesfruit oh that was only last night when i was delirious on quetiapine - you took advantage of the situation.	10012217	delirious 
+332511485043548162	68	77	ADR	back pain	effexor	i'd rather be on the effexor that made me happy though i had severe back pain from it.. than sad and crying for no reason on lexapro....	10003988	back pain
+332511485043548162	93	96	ADR	sad	lexapro	i'd rather be on the effexor that made me happy though i had severe back pain from it.. than sad and crying for no reason on lexapro....	10016364	feeling sad
+332511485043548162	101	121	ADR	crying for no reason	lexapro	i'd rather be on the effexor that made me happy though i had severe back pain from it.. than sad and crying for no reason on lexapro....	10011469	crying
+332666031778721792	33	41	ADR	allergic	cymbalta	@sarapekow need to switch bc def allergic to cymbalta :(	10001718	allergic reaction
+332754231138320384	60	75	ADR	insulin blocker	seroquel	why seroquel can make me put on 20 over kg: it acts like an insulin blocker or something.	10005613	blood insulin decreased
+332754231138320384	25	42	ADR	put on 20 over kg	seroquel	why seroquel can make me put on 20 over kg: it acts like an insulin blocker or something.	10047896	weight gain
+332906821624934400	96	107	ADR	hypotension	avelox	has anyone ever had to take avelox?  i need some tricks to curb the nausea and help me with the hypotension.  #avelox #antibiotic #evil	10021097	hypotension
+332906821624934400	68	74	ADR	nausea	avelox	has anyone ever had to take avelox?  i need some tricks to curb the nausea and help me with the hypotension.  #avelox #antibiotic #evil	10028813	nausea
+332978332679409665	69	78	ADR	biffiness	quetiapine	"@crimefish bum.  i was worried about mania on them, but i think the biffiness is going to be worse, especially coupled with quetiapine."	10027374	mental impairment
+333029850547900416	111	134	ADR	sleep for fifteen hours	trazodone	i can't decide if i should watch mind-numbing reality tv on netflix or abuse my prescription for trazodone and sleep for fifteen hours	10041349	somnolence
+333047285430751232	47	56	ADR	addictive	effexor	"narcotic, benzo, etc rx's arent the only meds addictive. if i miss a dose of wellbutrin or effexor, my hands shake crazy &amp; i get brain zaps"	10001125	addiction
+333047285430751232	134	144	ADR	brain zaps	effexor	"narcotic, benzo, etc rx's arent the only meds addictive. if i miss a dose of wellbutrin or effexor, my hands shake crazy &amp; i get brain zaps"	10014358	electric shock sensation
+333047285430751232	104	115	ADR	hands shake	effexor	"narcotic, benzo, etc rx's arent the only meds addictive. if i miss a dose of wellbutrin or effexor, my hands shake crazy &amp; i get brain zaps"	10040530	shaking of hands
+333047948642492416	89	107	ADR	cognitive problems	Topomax	"@burberrywife sometimes it never ends. so sorry. topomax is miserable with parasthesia, cognitive problems, kidney stones. lamictal's good"	10009846	cognitive impairment
+333047948642492416	109	122	ADR	kidney stones	Topomax	"@burberrywife sometimes it never ends. so sorry. topomax is miserable with parasthesia, cognitive problems, kidney stones. lamictal's good"	10023437	kidney stones
+333047948642492416	76	87	ADR	parasthesia	Topomax	"@burberrywife sometimes it never ends. so sorry. topomax is miserable with parasthesia, cognitive problems, kidney stones. lamictal's good"	10033987	paresthesia
+333050589867028480	122	130	ADR	migraine	lamictal	@burberrywife lamictal has a black box warning for rash? and they titrate you slowly. no side effects at all for me.  bad migraine today.	10027599	migraine
+333180265264472065	100	117	ADR	going though hell	venlafaxine	i need help twitter. i was gradually coming off venlafaxine and now i'm completely off it i've been going though hell.	10048010	withdrawal syndrome
+333249611403784193	106	116	ADR	extra 20kg	seroquel	today was hard - arguing with a professional. was told seroquel doesn�t make you put on weight - i and my extra 20kg beg to differ.	10047896	weight gain
+333249611403784193	81	95	ADR	put on weight 	seroquel	today was hard - arguing with a professional. was told seroquel doesn�t make you put on weight - i and my extra 20kg beg to differ.	10047896	weight gain
+333286778628870145	90	112	ADR	Coming off venlafaxine	venlafaxine	"@mondaysmomma it's ok, i guess it's just a case of trial and error with antidepressants. coming off venlafaxine has been so nasty :("	10013754	drug withdrawal syndrome
+333294325951774720	52	64	ADR	symptom free	paxil	@gusgreeper i can't believe how long it takes to be symptom free from this shit #paxil	10016370	feeling unwell
+333297273750564864	13	28	ADR	wake up at 2:30	seroquel	seroquel aka wake up at 2:30 and waste half your day sleeping.	10040999	sleep disturbed
+333297273750564864	39	61	ADR	half your day sleeping	seroquel	seroquel aka wake up at 2:30 and waste half your day sleeping.	10041349	somnolence
+333304563857780736	63	83	ADR	eyes are outta focus	lamictal	took 25 pills of lamictal cause that shit will fuck you up. yo eyes are outta focus and you can't walk straight but your happy as hell.	10012792	difficulty focusing eyes
+333304563857780736	92	111	ADR	can't walk straight	lamictal	took 25 pills of lamictal cause that shit will fuck you up. yo eyes are outta focus and you can't walk straight but your happy as hell.	10047810	walking difficulty
+333358524274987008	40	60	ADR	ruined my creativity	Prozac	@halfabear i had a year on prozac which ruined my creativity too - my memory now is awful - pregabalin does it but it's worth it!!!	10027374	mental impairment
+333358524274987008	70	89	ADR	memory now is awful	pregabalin	@halfabear i had a year on prozac which ruined my creativity too - my memory now is awful - pregabalin does it but it's worth it!!!	10027175	memory impairment
+333359537992118274	100	111	ADR	stupid head	lamictal	"i hate #zoloft because it makes me crazy revved up but i also hate #lamictal because it gives me ""stupid head"". ah, bipolar i disorder ?"	10010300	confusion
+333359537992118274	42	51	ADR	revved up	Zoloft	"i hate #zoloft because it makes me crazy revved up but i also hate #lamictal because it gives me ""stupid head"". ah, bipolar i disorder ?"	10020554	hyperactive
+333450968328974336	86	93	ADR	bloated	lyrica	@lk_gillan i started out with lyrica but i could no longer afford it &amp; it made me bloated. tried cymbalta &amp; my heart was beating wicked fast	10005264	bloated feeling
+333450968328974336	119	148	ADR	heart was beating wicked fast	cymbalta	@lk_gillan i started out with lyrica but i could no longer afford it &amp; it made me bloated. tried cymbalta &amp; my heart was beating wicked fast	10019303	heart rate increased
+333452116511309824	8	13	ADR	tired	seroquel	i am so tired right now. like i feel like i used to when i used to take seroquel and lithium. i haven't been this tired naturally ever	10043890	tiredness
+333457801953284097	62	78	ADR	holes in my head	trazodone	i eat my trazodone and go to bed; wake up in the morning with holes in my head	10016322	feeling abnormal
+333466989102239744	126	136	ADR	can't walk	cipro	@bayerusnews sure is!  i no longer even own a car after being crippled by cipro (a bayer product!).  who needs a car when you can't walk!?	10049278	unable to walk
+333466989102239744	62	70	ADR	crippled	cipro	@bayerusnews sure is!  i no longer even own a car after being crippled by cipro (a bayer product!).  who needs a car when you can't walk!?	10049278	unable to walk
+333519110946291712	90	102	ADR	not sleeping	fluoxetine	"@tete_floue yeah, i couldn't function without sleep so i understand. with fluoxetine, im not sleeping as well, but still sleeping x"	10041017	sleeplessness
+333524388286713856	75	95	ADR	increase my appetite	citalopram	@fergaroo thanks :) i so wanted venlafaxine to work cos at least it didn�t increase my appetite like citalopram did.	10021654	increased appetite
+333722857290989568	52	76	ADR	hypo manic mixed episode	paxil	@weswroten @bullfrogr wow paxil sent me into a huge hypo manic mixed episode.	10021030	hypomania
+333735685406224385	75	89	ADR	falling asleep	quetiapine	@lucilleparr i take quetiapine and it's supposed to just relax me i end up falling asleep within 2 hours. my brain's always scattered haha	10041014	sleepiness
+333735685406224385	109	133	ADR	brain's always scattered	quetiapine	@lucilleparr i take quetiapine and it's supposed to just relax me i end up falling asleep within 2 hours. my brain's always scattered haha	10067192	racing thoughts
+333782488428212226	20	29	ADR	Achille's	cipro	i do wonder of that achille's will ever recover fully from the cipro.	10048602	achilles tendon discomfort
+333801812610138114	109	140	ADR	shitty feeling when you wake up	seroquel	"i feel like a drug addict taking seroquel every night.. but oh well, great sleep beats no sleep. except the shitty feeling when you wake up"	10016370	feeling unwell
+333824061656412160	66	82	ADR	cognitive issues	cipro	"@ciproispoison i'm in so much pain now... tendonitis, headaches, cognitive issues... i feel violated. #cipro"	10009846	cognitive impairment
+333824061656412160	55	64	ADR	headaches	cipro	"@ciproispoison i'm in so much pain now... tendonitis, headaches, cognitive issues... i feel violated. #cipro"	10019211	headache
+333824061656412160	31	35	ADR	pain	cipro	"@ciproispoison i'm in so much pain now... tendonitis, headaches, cognitive issues... i feel violated. #cipro"	10033371	pain
+333824061656412160	43	53	ADR	tendonitis	cipro	"@ciproispoison i'm in so much pain now... tendonitis, headaches, cognitive issues... i feel violated. #cipro"	10043255	tendonitis
+333854639332151296	96	128	ADR	Struggled to get out of the bath	lamotrigine	@iamcarrieeeeee coming off the lamotrigine. it's not acceptable to be in pain most of the time. struggled to get out of the bath on sat	10047862	weakness
+333854639332151296	73	77	ADR	pain	lamotrigine	@iamcarrieeeeee coming off the lamotrigine. it's not acceptable to be in pain most of the time. struggled to get out of the bath on sat	10033371	pain
+333866431626235906	120	128	ADR	ruptures	ofloxacin	the drugs don't work!!! from fit to hobbling in a few days. off the pills but may need wks to recover &amp; be prone to ruptures #ciprofloxacin	10043248	tendon rupture
+333866431626235906	36	44	ADR	hobbling	ofloxacin	the drugs don't work!!! from fit to hobbling in a few days. off the pills but may need wks to recover &amp; be prone to ruptures #ciprofloxacin	10047810	walking difficulty
+333961182874566659	120	128	ADR	hairloss	trazodone	@noeleen3talk my mom is aged 72. she changed anti-depressants from aspen trazodone to zoloft. she has itchy scalp &amp; hairloss. could this be	10019045	hair loss
+333961182874566659	102	113	ADR	itchy scalp	trazodone	@noeleen3talk my mom is aged 72. she changed anti-depressants from aspen trazodone to zoloft. she has itchy scalp &amp; hairloss. could this be	10023093	itchy scalp
+333962515232985088	92	103	ADR	half-asleep	paxil	weird thing about paxil: feeling fully awake and energized and feeling completely tired and half-asleep at the same time.	10043890	tiredness
+333962515232985088	82	87	ADR	tired	paxil	weird thing about paxil: feeling fully awake and energized and feeling completely tired and half-asleep at the same time.	10043890	tiredness
+333967101628923904	59	67	ADR	sleeping	tysabri	#tysabri  really takes it out on me. spent most of the day sleeping.	10041349	somnolence
+333967101628923904	17	29	ADR	takes it out	tysabri	#tysabri  really takes it out on me. spent most of the day sleeping.	10041349	somnolence
+340177324798525440	31	39	ADR	addicted	nicotine	i wish everyone i loved wasn't addicted to nicotine.	10056478	nicotine addiction
+340233810903982080	44	54	ADR	withdrawal	paxil	you guys are going to have to hear about my withdrawal from paxil. unfollow while you have the chance!!!  day one....	10048010	withdrawal syndrome
+340305120258564097	58	79	ADR	kills your taste buds	nicotine	the nicotine in chewing tobacco is a deadly poison and it kills your taste buds.	10043134	taste loss
+340305120258564097	44	50	ADR	poison	nicotine	the nicotine in chewing tobacco is a deadly poison and it kills your taste buds.	10067843	nicotine poisoning
+340322414133129216	78	86	ADR	headache	nicotine	nicotine is literally poison. but sometimes you gotta find out the hard way. #headache	10019211	headache
+340322414133129216	22	28	ADR	poison	nicotine	nicotine is literally poison. but sometimes you gotta find out the hard way. #headache	10067843	nicotine poisoning
+340332151184691200	26	68	ADR	firmly gripped in it's gnarled yellow claw	nicotine	the nicotine beast has me firmly gripped in it's gnarled yellow claw. #resistanceisfutile	10056484	nicotine craving
+340332151184691200	4	40	ADR	nicotine beast has me firmly gripped	nicotine	the nicotine beast has me firmly gripped in it's gnarled yellow claw. #resistanceisfutile	10056484	nicotine craving
+340334658183110656	3	12	ADR	shivering	nicotine	"i shivering like mad , time to have nicotine . muahahhaha ."	10040558	shivering
+340339429329760256	21	25	ADR	high	nicotine	@pizzavibes nicotine high lol i'm like fragile or s/t and it gets to me	10016333	feeling high
+340347328479260672	38	44	ADR	sadvil	prozac	what idiot named it prozac instead of sadvil	10016364	feeling sad
+340371556930818048	65	71	ADR	addict	nicotine	"@me_hypnoticeyes count kum hai, can't avoid it being a nicotine addict. :/"	10056478	nicotine addiction
+340375549123899393	37	52	ADR	ruined my teeth	effexor	"so glad i'm off #effexor, so sad it ruined my teeth. #tip please be carefull w/ taking #antideppresiva and read about it 1st! #venlafaxine"	10044034	tooth disorder
+340416031971500032	40	50	ADR	cold sweat	baclofen	day seven off the baclofen and i've got cold sweats and constant insomnia... i'm running on fumes at this point.	10009866	cold sweat
+340416031971500032	65	73	ADR	insomnia	baclofen	day seven off the baclofen and i've got cold sweats and constant insomnia... i'm running on fumes at this point.	10022437	insomnia
+340513045916835840	63	68	ADR	 numb	prozac	i should just start taking my prozac again so i can stfu and go numb and maybe i won't cry anymore cos i'll be too fucking lifeless	10071175	lack of feeling emotions
+340513045916835840	123	131	ADR	lifeless	prozac	i should just start taking my prozac again so i can stfu and go numb and maybe i won't cry anymore cos i'll be too fucking lifeless	10016340	feeling lifeless
+340520325110456323	97	105	ADR	THROWING	seroquel	i'm crazy! gee i wonder why! thats it! i got a whole canister of seroquel xr! i'm going to start throwing them at higher educated people!	10062375	aggressive behavior
+340530953015402497	106	133	ADR	trying to function normally	seroquel	@itsmecreezy i hate to hear that.  taking seroquel is like swallowing a sleeping pill when u wake up then trying to function normally	10027372	mental function decreased
+340567278422728704	120	135	ADR	can't take both	prozac	took a percocet for my tooth. feel like i'm about to die cause of the prozac thats already in my system. apparently you can't take both. fml	10013710	drug interaction
+340660708364677120	40	49	ADR	withdrawl	levaquin	"not that anyone noticed, but my #ambienwithdrawl only lasted a few days. why? because i got another scrip. i need it while i'm on levaquin."	10048010	withdrawal syndrome
+340937210973016064	50	58	ADR	Toxicity	levaquin	@ruraldocmd please advise if you know of levaquin toxicity/adverse reactions. i am a 4+ year sufferer and chronic pain every day=can u help	10013746	drug toxicity
+340937210973016064	106	118	ADR	chronic pain	levaquin	@ruraldocmd please advise if you know of levaquin toxicity/adverse reactions. i am a 4+ year sufferer and chronic pain every day=can u help	10049475	chronic pain
+340951233055580160	65	74	ADR	legs ache	ofloxacin	"ran on an antibiotic this morning (having missed 4 days) and my legs ache like hell, not jsut the soft tissue either. levofloxacin is awful!"	10024130	leg pain
+340959965877522432	56	61	ADR	voice	paxil	paxil made me suicidally depressed to the point where a voice screamed inside my brain about my own worthlessness	10003785	auditory hallucinations
+340959965877522432	100	113	ADR	worthlessness	paxil	paxil made me suicidally depressed to the point where a voice screamed inside my brain about my own worthlessness	10016374	feelings of worthlessness
+340959965877522432	14	34	ADR	suicidally depressed	paxil	paxil made me suicidally depressed to the point where a voice screamed inside my brain about my own worthlessness	10042457	suicidal depression
+340978989285908480	97	117	ADR	shaking like ur cold	effexor	"@lulubot75 yeah,it can be caused by swelling from around a nerve from ra,but the effexor causes shaking like ur cold(shivering)"	10040558	shivering
+340978989285908480	118	127	ADR	shivering	effexor	"@lulubot75 yeah,it can be caused by swelling from around a nerve from ra,but the effexor causes shaking like ur cold(shivering)"	10040558	shivering
+341008335463669760	89	103	ADR	tearin up food	zyprexa	mann i've been having the munchies all day eatin weird shxt ahaha my zyprexa gotta nigga tearin up food	10004716	binge eating
+341008335463669760	43	54	ADR	eatin weird	zyprexa	mann i've been having the munchies all day eatin weird shxt ahaha my zyprexa gotta nigga tearin up food	10056465	food craving
+341008335463669760	26	34	ADR	munchies	zyprexa	mann i've been having the munchies all day eatin weird shxt ahaha my zyprexa gotta nigga tearin up food	10056465	food craving
+341027310780153856	97	102	ADR	worse	paxil	"@christal_l yeah, that was a great fucking year. that's when paxil entered my life, and made it worse. 10 years time sure helps, though."	10012398	depression worsened
+341042669327364096	47	61	ADR	tongue is numb	lozenge	i'm sick so i had a difflam lozenge and now my tongue is numb and i'm on tv aaahhhhhh	10029852	numbness of tongue
+341115678557884416	32	50	ADR	damage ALL tendons	cipro	"@fox1985 cipro can permanently damage all tendons in the body.  if you enjoy being able to walk, you need to find a safer antibiotic!"	10043242	tendon injury
+341115678557884416	92	96	ADR	walk	cipro	"@fox1985 cipro can permanently damage all tendons in the body.  if you enjoy being able to walk, you need to find a safer antibiotic!"	10049278	unable to walk
+341116202338361344	42	53	ADR	been in bed	cipro	@teepeewest did you get floxed too?  i've been in bed since 2009 thanks to just 12 cipro pills!  they never told me this can be permanent!!!	10048948	bedridden
+341118058305318912	36	44	ADR	crippled	Cipro	"@angel_long @princessdolly85 cipro crippled me. you should also stay away from all other antibiotics in the same class (levaquin, avelox...)"	10049278	unable to walk
+341121734126231552	88	98	ADR	disability	cipro	@jakefletcha @becki_65roses cipro is real bad on your entire body!  take it from me (on disability since '09 thanks to just 12 pills).	10013050	disability
+341212339883868160	45	51	ADR	clumsy	cipro	plus this antibiotic is making me stupid and clumsy. cipro is evil but the fever is gone.	10009696	clumsiness
+341212339883868160	34	40	ADR	stupid	cipro	plus this antibiotic is making me stupid and clumsy. cipro is evil but the fever is gone.	10027372	mental function decreased
+341306691310215168	99	112	ADR	feeling awful	venlafaxine	"@sectioned_ anybody know anything about side effects of venlafaxine? come off 'em 6wks ago, still feeling awful. physical withdrawal awful"	10016370	feeling unwell
+341306691310215168	123	133	ADR	withdrawal	venlafaxine	"@sectioned_ anybody know anything about side effects of venlafaxine? come off 'em 6wks ago, still feeling awful. physical withdrawal awful"	10048010	withdrawal syndrome
+341526593308606464	26	36	ADR	coming off	venlafaxine	@mrsb_ldn i found it hard coming off venlafaxine. definitely agree that running helps: it's the only thing that has kept me drug-free. ever!	10013754	drug withdrawal syndrome
+341632186849566720	89	112	ADR	brain is a sack of NOPE	fluoxetine	remind me to get my prescription earlier next time. eight days without fluoxetine and my brain is a sack of nope.	10010300	confusion
+341655044569047041	79	89	ADR	depression	trazodone	a comprehensive and accurate list of trazodone side effects http://dld.bz/ww2q depression #antidepressant ocd insomnia	10012378	depression
+341655044569047041	110	118	ADR	insomnia	trazodone	a comprehensive and accurate list of trazodone side effects http://dld.bz/ww2q depression #antidepressant ocd insomnia	10022437	insomnia
+341655044569047041	106	109	ADR	ocd	trazodone	a comprehensive and accurate list of trazodone side effects http://dld.bz/ww2q depression #antidepressant ocd insomnia	10029898	obsessive-compulsive disorder
+341664551076499457	13	18	ADR	tired	cymbalta	i've been so tired since i started the cymbalta. i sleep so much. case in point: just slept an hour before bed.	10043890	tiredness
+341664551076499457	51	64	ADR	sleep so much	cymbalta	i've been so tired since i started the cymbalta. i sleep so much. case in point: just slept an hour before bed.	10041349	somnolence
+341691080019943424	82	92	ADR	depression	cymbalta	they put me on cymbalta for my joint pain with hashis. now the pain is better but depression is worse. *sigh*	10012398	depression worsened
+341696140116365312	47	61	ADR	eating all day	vyvanse	i need vyvanse ugh i ran out and now i've been eating all day and i feel weird without it	10015598	excessive eating
+341696140116365312	68	78	ADR	feel weird	vyvanse	i need vyvanse ugh i ran out and now i've been eating all day and i feel weird without it	10047904	weird feeling
+341700947707314178	58	67	ADR	depressed	metoprolol	off of my metoprolol medication!! hopefully i won't be so depressed anymore! #thankyoujesus	10012378	depression
+341732677487063042	3	20	ADR	feeling so shitty	prozac	im feeling so shitty. been out of prozac for four days:(((	10016370	feeling unwell
+341734697115742208	31	40	ADR	headaches	enbrel	i've been getting almost daily headaches for the past 3 weeks ?? side effects of #enbrel ? i've been on it for months now though #rheum	10019211	headache
+341752469287755776	74	96	ADR	put a gun in your hand	cymbalta	"depression hurts, cymbalta can help. jk. cymbalta doesn't do shit except put a gun in your hand"	10042458	suicidal ideation
+341797745549516800	50	56	ADR	drowsy	baclofen	i took some baclofen and i dont feel a little but drowsy! #wtf #backspasms	10013649	drowsiness
+341818667773853696	124	133	ADR	lung pain	humira	feels dreadful - how do u over come a #virus when on #humira? gp gave antibiotics to help me out' but it's #viral!! making #lung pain worse	10074693	pulmonary pain
+341822266851594240	87	103	ADR	rid myself of it	baclofen	"@oiseucalypt i was on muscle relaxant baclofen for two weeks, then 2 months trying to rid myself of it. 11 days in without and no sleep. :/"	10013663	drug dependence
+341822266851594240	128	136	ADR	no sleep	baclofen	"@oiseucalypt i was on muscle relaxant baclofen for two weeks, then 2 months trying to rid myself of it. 11 days in without and no sleep. :/"	10041017	sleeplessness
+341830080873504769	20	28	ADR	allergic	effexor	"i think i might be allergic to effexor. i just woke up feeling sick, meh."	10001718	allergic reaction
+341830080873504769	64	68	ADR	sick	effexor	"i think i might be allergic to effexor. i just woke up feeling sick, meh."	10016365	feeling sick
+341861781385383936	30	37	ADR	nauseas	venlafaxine	venlafaxine makes me feel  so nauseas hahahaha oh god i'm going to chunder in my geography lesson help	10028813	nausea
+341861781385383936	67	74	ADR	chunder	venlafaxine	venlafaxine makes me feel  so nauseas hahahaha oh god i'm going to chunder in my geography lesson help	10047700	vomiting
+341903484242784256	105	118	ADR	tummy trouble	leflunomide	@joanne__howe i'm good been on 25mg mtx for years then switched to leflunomide back mtx the other caused tummy trouble. why r u off enbrel	10045148	tummy ache
+341943632657543169	31	41	ADR	withdrawal	prozac	how anyone can say there is no withdrawal from prozac withdrawal is beyond me.  their answer is to go back on it and up the dose.	10048010	withdrawal syndrome
+341964103297945600	54	81	ADR	perspective time and people	fluoxetine	i really feel like this fluoxetine is messing with my perspective time and people.	10074073	time perception altered
+341966225259233281	75	99	ADR	 heart beat out my chest	vyvanse	how do u do it? u got me losing every breath. what did u give me to make my heart beat out my chest? #vyvanse	10019297	heart pounding
+341966225259233281	25	44	ADR	losing every breath	vyvanse	how do u do it? u got me losing every breath. what did u give me to make my heart beat out my chest? #vyvanse	10040604	shortness of breath
+342011049928687616	103	109	ADR	zombie	cymbalta	seriously if you are getting off cymbalta tape alot if movies i was up till 4 and feel and look like a zombie just to tired to growl !!!	10016384	felt like a zombie
+342011049928687616	68	77	ADR	up till 4	cymbalta	seriously if you are getting off cymbalta tape alot if movies i was up till 4 and feel and look like a zombie just to tired to growl !!!	10022437	insomnia
+342011049928687616	118	123	ADR	tired	cymbalta	seriously if you are getting off cymbalta tape alot if movies i was up till 4 and feel and look like a zombie just to tired to growl !!!	10043890	tiredness
+342066898667700224	36	48	ADR	shit feeling	vyvanse	"3 red bulls, 2 vyvanse, no sleep = shit feeling"	10016370	feeling unwell
+342066898667700224	25	33	ADR	no sleep	vyvanse	"3 red bulls, 2 vyvanse, no sleep = shit feeling"	10041017	sleeplessness
+342087942472359936	60	72	ADR	hear answers	vyvanse	vyvanse literally causes me to get like schizophrenia but i hear answers idk but i like it	10019064	hallucination auditory
+342087942472359936	40	53	ADR	schizophrenia	vyvanse	vyvanse literally causes me to get like schizophrenia but i hear answers idk but i like it	10039626	Schizophrenia
+342109935531868161	36	45	ADR	thick fog	seroquel	woah even 50mg seroquel hits like a thick fog	10016876	foggy feeling in head
+342124485253664768	31	39	ADR	TooChill	vyvanse	no one likes me on my vyvanse #toochill #zombiemode	10014560	emotional withdrawal
+342124485253664768	41	47	ADR	Zombie	vyvanse	no one likes me on my vyvanse #toochill #zombiemode	10016384	felt like a zombie
+342150382698504192	83	94	ADR	muscle pain	rivaroxaban	@ctr1945 my mom used rivaroxaban and it gave her a terrible time with weakness and muscle pain.	10028322	muscle pain
+342150382698504192	70	78	ADR	weakness	rivaroxaban	@ctr1945 my mom used rivaroxaban and it gave her a terrible time with weakness and muscle pain.	10047862	weakness
+342163994209054720	23	36	ADR	Weirdo dreams	quetiapine	quetiapine - i slept!! weirdo dreams and very drowsy this morning but i slept!!!	10004969	bizarre dreams
+342163994209054720	46	52	ADR	drowsy	quetiapine	quetiapine - i slept!! weirdo dreams and very drowsy this morning but i slept!!!	10013649	drowsiness
+342166652617629696	8	25	ADR	hearing the words	vyvanse	"i keep hearing the words ""chris tucker, money talk mufucka"" over and over in my head it's been happening for like an hour too. fuck vyvanse"	10003785	auditory hallucinations
+342222942853287936	92	96	ADR	numb	effexor	"@zymymar stopped zoloft cold turkey after i became suicidal, stopped effexor because i was numb."	10071175	lack of feeling emotions
+342222942853287936	52	60	ADR	suicidal	Zoloft	"@zymymar stopped zoloft cold turkey after i became suicidal, stopped effexor because i was numb."	10042458	suicidal ideation
+342229999450992640	102	111	ADR	headaches	trazodone	why can't i sleep like a normal person. oh yeah because i suffer from insomnia and trazodone gives me headaches #suffering #reality	10019211	headache
+342240470535139328	52	76	ADR	only slept about 2 hours	vyvanse	gonna watch the sunrise.. vyvanse got me up. i have only slept about 2 hours in the past 48 hours. 150mg got me fucked up	10041017	sleeplessness
+342240470535139328	34	43	ADR	got me up	vyvanse	gonna watch the sunrise.. vyvanse got me up. i have only slept about 2 hours in the past 48 hours. 150mg got me fucked up	10022437	insomnia
+342283136480206848	76	83	ADR	anxiety	baclofen	"hmm, interesting. i may have been undergoing baclofen withdrawal hence the anxiety for the past few months� #hypochondria"	10002855	anxiety
+342283136480206848	110	122	ADR	hypochondria	baclofen	"hmm, interesting. i may have been undergoing baclofen withdrawal hence the anxiety for the past few months� #hypochondria"	10020965	hypochondriasis
+342283136480206848	55	65	ADR	withdrawal	baclofen	"hmm, interesting. i may have been undergoing baclofen withdrawal hence the anxiety for the past few months� #hypochondria"	10048010	withdrawal syndrome
+342299048105091072	11	14	ADR	low	vyvanse	i hate the low after the high on vyvanse	10024919	low mood
+342310086363983873	34	45	ADR	weight gain	tysabri	on a related note: tysabri causes weight gain. as does body pain/inability to exercise. sigh. #fuckms	10047896	weight gain
+342314998904786945	87	96	ADR	brain zap	cymbalta	"#cymbalta withdrawal has reached a peak, lost vision and almost crashed my car from a brain zap. thanks a zillion #elililly #bigpharma"	10014358	electric shock sensation
+351631417559625728						rt @dmpharmresearch: @nejm publishes exciting phiii trial results for #eliquis (apixaban) suggesting a hopeful alternative for vte  #isth20�		
+333399411042447360						get some abreva and rub it on your cock b4 u use it next.  or take some avelox.		
+340708307255836672						"#download avelox - a medical dictionary, bibliography, and annotated research guide to internet references - icon health... @workshopguides"		
+350996884472598529						@shiftms @positiveaboutms question about sleeping probs at night. anyone else encountering this?baclofen perhaps? cheers x		
+354418786499166208						"@rogerrdharris @rfdsdoc @toxtalk @poisonreview cause here is baclofen toxicity(mostly)not bd.no plausible cause but testing was done,caveat"		
+341171613368205312						the fluoroquinolone syndrome &lt;-have you experienced side effects from taking quinolones antibiotics (e.g. cipro) ?		
+341508789654147072						starting the cipro and flagyl today :( this should be fuuuuun		
+342777097661599744						"@princessdolly85 off ivs for another 3 weeks for til tue til improve or ivs sooner :-/ hope cipro have helped, shame about no sun"		
+348345272553840640						rt @lemonka: the lady from the bank later said sir this means that cipro discontinued your business &amp; since this a ... http://t.co/qjmiuram�		
+348374178820415488						harde rt @baokent: :( �@lemonka: great cipro advertised my company for interested bidders.�		
+349693143400202240						"@simbukha hey sim! i never chat wth u via dis social netwek, r u great dou?@cypro"		
+349879565482590208						i hope this annual cipro diet tradition doesn�t become a tradit� damnit.		
+351225341529948161						the fluoroquinolone syndrome &lt;-have you experienced side effects from taking quinolones antibiotics (e.g. cipro) ?		
+352731026902089729						the fluoroquinolone syndrome &lt;-have you experienced side effects from taking quinolones antibiotics (e.g. cipro) ?		
+353077981557690368						"@reditlhabi after holding for 2 hours on #cipc #cipro, the consultant just greeted, asked my problem and dropped the phone!!!!!!!!!!"		
+353837855770030081						@doctormcpa @sarahrnay am i reading this correctly...are you prescribing cipro for simple utis??		
+332530607399780352						@kenzo_fosho depression hurts cymbalta can help		
+332588060011274240						depression hurts cymbalta can kill you		
+332624210092490753						depression hurts cymbalta can help		
+332783620471259136						"@docwashburn i'm not trying to start any immature fight with you. but ask you to realize how dangerous ""medicine"" is. like ""cymbalta""."		
+333034252612534273						"i don't get why they make stuff like cymbalta to decrease the suicide rate, when there are bunch of precautions about how it may kill you."		
+333793664520318976						"rejection hurts, cymbalta can help http://t.co/wzwddt6hyc"		
+340608479872045056						"@galaxiianxoxo depression hurts, cymbalta can help."		
+340852413651091456						some girls are to depressed for nothing. bitch take cymbalta or something shit		
+341080052986961920						"well you better go get your depressed ass to that store and get you some cymbalta ""@gayass_kathy: how i feel http://t.co/9yfea2otmj"""		
+341424607812784129						somebody pass the cymbalta		
+341582321465569280						"and so it was decreed on this day in 2013, year of our lord that my first born shall be nameth cymbalta."		
+341744330286981120						"just timed a cymbalta commercial. 50 of the 70 seconds was side effects and warnings. so, how bad is your arthritis??"		
+341867322849497089						depression hurts. cymbalta can help.		
+344267039784960000						"rt @em_wolbert: depression hurts, cymbalta can help"		
+344240478973227008						@ettube @davidjuurlink did you know that pts on dabigatran in re-ly had increased rate myocardial ischemia? interested in postmarketing data		
+348601192068292608						"rt @awesomereview: side effect of dabigatran, bleeding where?"		
+349639850808451073						@_nmay thanks for posting this! have often wondered about new oacs like dabigatran and bleeding crises.		
+347937374765977600						rt @myeloma_doc: data with denosumab in #myeloma: may be alternative to reduce skeletal events in deteriorating renal function (http://t.co�		
+351272435062022146						rt @theannals: the role of denosumab for prevention of skeletal-related complications in multiple myeloma (july/august): obje... http://t.c�		
+349077797379121152						dronedarone not recommended for patients with permanent #afib or for the sole purpose of rate control - anne gillis #ehraeuropace		
+349082381006827520						in esc 2012 #afib focused update dronedarone not recommended in #heartfail &amp; recommended second to sotalol in #chd - john camm #ehraeuropace		
+349082622078627840						rt @escardio: dronedarone not recommended for patients with permanent #afib or for the sole purpose of rate control - anne gillis #ehraeuro�		
+347834990303772673						@mookpixie  apparently  duloxetine is one of the more expensive drugs but i'm sure does not suit everyone		
+350675024010690560						"rt @swog: #s1202 ph iii study now open at 38 sites, w more every day: duloxetine for ai-induced pain in #breastcancer #swogonc http://t.co/�"		
+345625379190472704						"@culturalsavage can i ask what you're switching from/to? i've had to come off effexor twice over the years, and it's the absolute pits."		
+348483498736234497						"@llamaprincess_x i've been taking effexor, and it's been working for me. maybe ask your parents to try something else?"		
+351888799615299587						"taking effexor, drinking ice water, taking a cool shower right before bedtime and not drying my hair, and running the ceiling fan on high."		
+344592312661331969						@anorexic0 @ewdustin -generic drugs as effective as amgen's enbrel for arthritis- @fiinging -: a blockbuster drug made b...  @jesusislana		
+344592312791363585						@anorexic0 @ewdustin -generic drugs as effective as amgen's enbrel for arthritis- @fiinging -: a blockbuster drug made b...  @jesusislana		
+344592314523602945						@anorexic0 @ewdustin -generic drugs as effective as amgen's enbrel for arthritis- @fiinging -: a blockbuster drug made b...  @jesusislana		
+344592314833960961						@anorexic0 @ewdustin -generic drugs as effective as amgen's enbrel for arthritis- @fiinging -: a blockbuster drug made b...  @jesusislana		
+344834834885136384						@melissadee_ i do 2 per week - method and enbrel and its nothing.		
+348959881656688640						@_connectedcare good read. enbrel allows me 2 work at a great job w great benefits. which allows me access to enbrel. catch 22.		
+350348236323688449						@supernannykenz i pray you can stay off too! hoping to back off my dose some when the enbrel works :) to run ahhhhh would be dreamy.		
+350599480602656771						things no 19 year old should be excited about except i am: finally starting enbril!		
+350763059251384320						"rt @jphaddadio: the commercial said enbrel can cure your plaque psoriasis and the only side effects are cancer, hepatitis b and multiple sc�"		
+349669426993434624						"@factive ahahaha oops. well, i sure put my foot in my mouth, didn't i? :)"		
+330983607889981441						two rakat nafl work more efficiently than sublingual fluoxetine.		
+331867121531367424						two antidepressants - mirtazapine and fluoxetine - have been linked to a significantly increased risk for clostridium difficile infection..		
+331954804089823232						depression medications mirtazapine and fluoxetine may increase a person's risk of developing clostridium difficile infection (cdi) by as ..		
+332574142903775232						fluoxetine does sweet fuck all		
+349006527883010048						@ph_tariq u sure know fluoxetine..to my surprise and yours..it was the result of studies on diphenhydramine!.look to the structure of both.		
+333664046505132033						"if you or a loved one has experienced severe side effects from the use of fosamax, call 1.888.520.5202. habla espanol. we follow in return."		
+333734130116354048						"if you are on zometa, fosamax, boniva,  actonel your dentist and oral-maxillofacial surgeon should know and be in contact with your md"		
+345625588423340032						gamma-aminobutyric acid acts as a neurotransmitter. it has slight stimulatory effects on the brain &amp; may help induce a state of calm. #gaba		
+341663045254270976						goodbye #methotrexate. hello #humira. i'm beginning to feel like a bloody chemical factory.. and a pin cushion.		
+342305897625829376						humira may lower your abilities to fight infections. :( #fight4joints		
+342351565727862785						"@almostwell so many complications from one illness. have you had surgery in the past, and are you planning to start humira or similar drugs"		
+342812200567717888						do you feel like kayvon is risking relationships with customers? is humira right to refund customers? @pizzapizzaltd #bethebosscanada		
+343928232564912128						watching commercial for humira. sounds like worse medication ever. i'd rather have arthritis than cancer #notworthit		
+344200967841005570						"@unguidedmissile i probably hv to stay on humira until september, 6 months will b up then. seeing doc 19th, will ask what he thinks."		
+344963265706737664						he learned how to give me my humira shot wuth the training kit lol		
+348442602489659392						"@natkayb good luck, i sincerely hope humira does wonders for you! the pen isn't all that bad either, injections just part of weekly routine?"		
+351542752934236160						"so.. the humira commercial said ""i went to my dermatologists &amp; she assigned me humira."" i said ""y didn't she give it 2 u in the 1st place?"""		
+352169959247450112						"before taking humira you have to report to your doc whether youv'e had ""certain fungal infections."" uh huh...cuz that's not too vague."		
+343732127013171200						"@motherofhades that may change of course when my ativan and lamictal kicks in this morning....nah, probably not"		
+345689826332393472						thankfully i can come off my lamictal in 3 days. tapering isn't as slow is titration		
+327048593489944576						"told them my medication runs out this week and isnt on repeat, which really bugs me, with it being lamotrigine i cant exactly go the weekend"		
+328497467203145730						the smell of my lamotrigine makes me want to throw up this is fucking ridiculous		
+341440023981350912						lamotrigine may be of interest for both prevention and treatment of brain metastases of her2+ breast cancer.		
+349139552700600320						#bipolar meds think just #lithium for #monotherapy #lamotrigine for #rapidcycling #atypicalantipsychotics now revealing serious #sideeffects		
+347515397349715968						"@powerrosssorkin @madmoneyoncnbc @cnnmoney #risperdal, #levaquin, the hips, now knees too, exelon, sec in greece et al gorsky is a nightmare"		
+347122423646277632						@livaloo22 awwwww livalo so sweet &lt;3 you 2		
+328283125748752386						who wants 2 buy nicotine lozenges frum me!! all the high of a cigarette without the smoke!!!!!		
+340679168448667649						@leenewtonsays eat a few marshmallows.  they were originally invented as a lozenge for sore throats.		
+341276824837447680						i need a throat lozenge. ?		
+341401727901253632						eat carrots then can only think until brunoise jullienne batonnet small dice lozenge chiffonade... lolwts.  life of a culinary student ??		
+342089162792513537						i'm the lozenge that gotham deserves... (read in batman voice.)		
+342174038073962496						@bajeenasaori *offers you a throat lozenge before going to make porridge*		
+342274978101727232						"@uberfacts orange: porridge, marriage, lozenge, courage, pwnage, ownage, iceage, hair singe, storage, old age, arrange"		
+343532517573394434						"the sultry, smug, douchy voice of joe buck. would you like a throat lozenge? #baseballnightinamerica #redsox #angels"		
+345243505528012800						rt @15stephen15: #todolist 1-finish throat lozenge. 2-record here's the thing for @nickbonsantosho. 3-invent renewable energy source using �		
+345586493441593344						@jimrome somebody get that man a lozenge. #smackoff		
+347040450575736833						*takes chill lozenge*		
+347199134962429954						rt @johngrantjr24: bron bron needs a cepacol lozenge.  #coughcough		
+347942663837855744						melatonin in lozenge form is really dangerous for an oral fixation person like myself		
+348440018588663808						i sometimes eat this and pretend it's candy when it's actually not bec it's a lozenge :( oops http://t.co/eheigbmmln		
+349168322832629761						@sircanuckles @bookofloob @imacvansun maybe with a coach like this the team doesn't have all the blowups they've had under lozenge boy?		
+349246987901730816						rt @analyticalanna: @lizzybizzylou not the cough suppressant ones. it should just be a throat lozenge made only of pectin. feel better soon�		
+349395760632180737						rt @gabbyelle0: i'm in desperate need of a throat lozenge.		
+333107802522406912						"@katgamer i ran out of metoprolol back in 2005. in 2 days, i could not take anything more than 6 inch steps with rest after every other one."		
+347192623934603264						rt @diabetes_bio: news: takeda type 2 diabetes therapies nesina alogliptin and fixeddose combinations kazano alogliptin and metformi... htt�		
+339790738336403456						"nicotine, caffeine and alcohol can only be my friend when loneliness"		
+339967949551042561						"got a smooth e-hookah. tobacco and nicotine free. just pure water vapor and peach flavoring. mastered the hookah smoke o's, hell yes"		
+339975035219496960						niggas try an smoke you just like nicotine		
+340049845899390977						one of the lower points in your life is when you realise you can't concentrate on revision without nicotine		
+340284481690808320						"hahaha everyone's flippin out cus it's ""no tobacco day"" from today til 2nd june. gonna have nicotine deprived crazies in the streets today"		
+340297240415465473						kiss a nigga taste that nicotine		
+340298821248643072						go mario! :) rt @mariomc_snake: 1 week strong nicotine free...		
+340371459417456640						not funny is running out of cigg no place to buy cause nicotine free day?		
+329389823674679296						"5th year intern doesn't know the brand name for ciprofloxacin. answers back with, ""uh... levaquin.""  #fml #pharmacyproblems"		
+330744100888387585						"treatment: 1) antibiotic therapy: cotrimazole, ciprofloxacin,cephalosporin,amoxycillin"		
+348651062720331777						@fyrechief #cillaxin? is that a new medicine of some kind? like amoxicillin? or ciprofloxacin? ;-)		
+348901281252929537						"@theantimyth @crossfitchemist unexpected and potentially problematic-others like ciprofloxacin increase bc levels, causing more side effects"		
+327203515309113344						@sofiya__x erm yeah.. yu know it.. i should get you some olanzapine from the chemist ?		
+328937568265699329						fun facts: do you know what medications are 4 bipolar depression? currently #fda approve combo of #olanzapine &amp; #fluoxetine		
+332193645732175872						"dr; hello dave. david; is that an old computer. dr; i`m not sure. david; what operating system dr; here`s some olanzapine, see you next week"		
+344192902882283520						"@jrussouk we'll always be together, together in olanzapine dreeeams..."		
+347420444728623105						i think i would become catatonic if i stopped my olanzapine completely		
+328912190226702337						i need to grow up. and i need my paroxetine. and i need to go order prints what is my problem (money. money is my problem)		
+349288864516542465						"so yes, relative risk is doubled. but absolute risk is halved compared to what they say. and only for paroxetine."		
+351043516341813248						"#fda has approved paroxetine (ssri), to treat moderate to severe hot flashes associated with menopause."		
+351501594950504449						"lester holt nbc just hyped a ""new drug"" for hot flashes; not a new drug, it is simply paroxetine rebranded. nbc needs new science editor!"		
+332638844254052354						"all the same, forward spite of paxil medicamentation, high blown willpower and a divine breath hope to god in or:"		
+333763936610566145						@koma11sen paxil didn't fit me either. it's great for many. i'm on nothing at all. recently quit drinking too.		
+340318799431606273						@textsurgery paxil? more like paxchill. 8)		
+341242463131942912						"for mothers day; i gave my mom a gift card, a bottle of wine and a 3 month supply of paxil...im definitely her fucking favorite! #mothersday"		
+343564482854936576						can't seem to find an episode of intervention for all the drugs i got put on as a kid that i can't get off. huh wonder why- *paxil ad plays*		
+343860612973096960						@etpc1  if they don't work for you try fexofenadine and talk to your doc in case of contraindications with paxil		
+345755490170597376						don't ever take paxil &amp; drink beer. i'm just sayinn.. fuck		
+348111410108178433						"off paxil, back on zoloft &amp; cutting down. also, cutting down my klonopin. moving in the right direction. #progress #medtalk"		
+348462397159264256						today is the day i totally ditch zoloft and switch to paxil only		
+348872797717676032						"rt @lawfirm_ma: we represent people injured by dangerous drugs &amp; vaccines including:  ssri drugs: paxil, zoloft, effexor, celexa, lexapro, �"		
+350764114840272896						are you like on paxil or something ? because you haven't had a meltdown and you don't get worked up anymore		
+351911750314098688						@got_drums if i were to find you at paxil would you let me stroke your beard? #beingacreep		
+353183793915498496						"ssri birth injury drugs: celexa, effexor, lexapro, paxil, prozac, and zoloft. call now to speak with an attorney. 1.888.520.5202."		
+353707236402536449						mark munoz plans on taking paxil inbetween rounds. #ufc162		
+346500071602393088						sounds like pradaxa review sets new precedent for pbs listing: new drugs won't be listed if old ones (like warfarin) being used suboptimally		
+339768781020733442						prozac nation is v good even tho i'm on chapter one		
+340469543279411200						*me on the intro to my rap song* yo shout out to my prozac prescription and my girlfriend who doesn't really like me that much 2006 shit boi		
+340523748375556097						the weather is on prozac now? rt @pwp_weather dry weather expected in the country. temperatures would start to rise. depression weakens		
+340555306696318978						bananas contain a natural chemical that can make a person happy - the same chemical found in prozac.		
+340555889012535297						@uberfacts: bananas contain a natural chemical that can make a person happy - the same chemical found in prozac.@kb_bnn		
+340555912517394433						bananas contain a natural chemical that can make a person happy - the same chemical found in prozac. (via @uberfacts)		
+340556923994791936						"wow ""@uberfacts: bananas contain a natural chemical that can make a person happy - the same chemical found in prozac."""		
+340557431128092672						bananas contain a natural chemical that can make a person happy - the same chemical found in prozac.		
+340557479656161280						@yb_nl: bananas contain a natural chemical that can make a person happy - the same chemical found in prozac.		
+340565184865243136						�@uberfacts: bananas contain a natural chemical that can make a person happy - the same chemical found in prozac.� oops i hate bananas		
+353058680897404928						the score to carl sagan's 'cosmos' is like prozac to me. #sagan #science #space		
+327829186637078528						"journal articles  fulminant hepatic failure in association with quetiapine journal of medical case reports, april 26, 2013"		
+328899387298287616						"@god_chef that's what i said last time, and the fucker gave me quetiapine!"		
+332973555132297218						"@_pocketdynamo citalopram and quetiapine, not really withdrawal but my dose has been halved and i haven't got used to it yet:("		
+341960379506757632						"anyone ever taken quetiapine? i've been on it for a week, not too sure how i feel about it yet. anyone want to share their experience?"		
+348859504315736064						rt @globalmeded: comparison of 4 antipsychotics in patients over 40 with psychiatric disorders. quetiapine least safe http://t.co/5roujwr3b�		
+351787479201886208						sabril was found to cause blindness a few years ago #panorama		
+342048288641544192						"*guy walks out of pharmacy with drug bag* me: ""what drug do you think he's on mom??"" mom: ""well he's talking to himself."" me: ""seroquel xr"""		
+344486314567155712						rt @da_waviest420: @huntermoore #confessionsofaratchet gave everyone at some out of town party seroquel and waited till they passed out the�		
+344599658900901888						i love getting drugged up in the institutions though. they'd give me my prescribed 200mg of seroquel and 2 capsules of benadryl. fuck yeah.		
+345237102067322882						i think i like this seroquel stuff. pity i have to think.		
+348966206184763393						@gtpixie @fastingforlife u took a lot of seroquel sweetie. im sure that's what the doctors told you too.u were on a ventilator in hospital.		
+349052514039119872						"@zbmtwo i was taking seroquel off label, bad side effects, stopped taking it."		
+349713239468294145						rt @bromethazine: my life can be divided into pre-seroquel and post-seroquel epochs		
+349721867357138945						i had quit that psycho #bigpharma pill cold turkey. seroquel - but things are so fucking rough right now		
+329136637034520576						waiting on the trazodone to kick in.  going shopping with amanda kaye &amp; the fam tomorrow!  xd		
+331289838856835072						"okay trazodone, work your magic."		
+332907977700937731						"tomorrow, sending mummers her mother's day postcard and finally picking up my trazodone."		
+333123450254274560						@kyleecakes4 i was given like 5mg of abilify and i still do not recall the dosage of trazodone.		
+341950988455927808						"stand down, tweeps! stand down! i did it wrong (thanks to @marrije for catching it) - doc gave me trazodone, not tramodol."		
+350709708484644864						"@loveone_another: i'm lowkey pill junkie. &gt;.&lt; vivance, xanax, hydro's and trazodone are my faves"		
