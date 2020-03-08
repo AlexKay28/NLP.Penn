@@ -1,0 +1,55 @@
+10
+
+dir
+221
+svn+ssh://siddhartha@208.75.163.9:1923/home/siddhartha/sidscratch/currentProjectsTrevor/IE_java/src
+svn+ssh://siddhartha@208.75.163.9:1923/home/siddhartha/sidscratch/currentProjectsTrevor
+
+
+
+2010-12-31T02:31:48.133125Z
+221
+siddhartha
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2ada62f7-d572-4be1-aa25-d81ee0616ac8
+
+apps
+dir
+
+concepts
+dir
+
+malletExtensions
+dir
+
+proteinTagging
+dir
+
+relations
+dir
+
+relationsPhase2
+dir
+
+sentiments
+dir
+
+subtasks
+dir
+
+util
+dir
+
