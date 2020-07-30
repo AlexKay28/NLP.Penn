@@ -9,7 +9,7 @@ Embedding vecs was used from http://vectors.nlpl.eu/explore/embeddings/en/models
 
 1. Classic ML models: (was fitted on unbalanced dataset. probably it was bad decision... look at FastText + SVM model.)
 
-  \t1.1 TFIDF + SVM. F1-score: 64.328%; std: 6.011;
+  1.1 TFIDF + SVM. F1-score: 64.328%; std: 6.011;
   
   1.2 TFIDF + MLP. F1-score: 65.988%; std: 5.821;
   
