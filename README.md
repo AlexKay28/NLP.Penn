@@ -38,7 +38,8 @@ Embedding vecs was used from http://vectors.nlpl.eu/explore/embeddings/en/models
   * LSTM (double emb. as in 2.3) + CNN. F1-score: 0.77 (0.79 extended data)
   
 **3. Tensorflow models.**
-  models was constructed one by one. Each of them is modification of previous one.
+  
+  Models was constructed one by one. Each of them is modification of previous one.
   I won't describe features from each of them, everything is in directory 'models tensorflow'
   Also was used Tensorboard for visualisation of training process.
   Sometimes calculations were done on Google cloud by means of using CPU as well as GPU and TPU!
