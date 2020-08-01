@@ -9,11 +9,11 @@ Embedding vecs was used from http://vectors.nlpl.eu/explore/embeddings/en/models
 
 1. Classic ML models: (was fitted on unbalanced dataset. probably it was bad decision... look at FastText + SVM model.)
 
-  1.1 TFIDF + SVM. F1-score: 64.328%; std: 6.011;
+  1.1. TFIDF + SVM. F1-score: 64.328%; std: 6.011;
   
-  1.2 TFIDF + MLP. F1-score: 65.988%; std: 5.821;
+  1.2. TFIDF + MLP. F1-score: 65.988%; std: 5.821;
   
-  1.3 TFIDF + GBM. F1-score: 57.575%; std: 3.853;
+  1.3. TFIDF + GBM. F1-score: 57.575%; std: 3.853;
   
   1.4 FastText + SVM. F1-score: 84%. I guess, model decided to mark all sequences as Negative ('0'). 
   
